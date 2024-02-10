@@ -505,9 +505,7 @@ img {
 
 .footer-svg {
     display: flex;
-    fill: #f4f4f4;
-    height: 24px;
-    width: 24px;
+    fill: #f4f4fd;
 }
 
 .container {
