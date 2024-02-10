@@ -123,8 +123,7 @@ section {
     color: #404BBF;
 }
 
-.header-nav-active:active::after,
-.header-nav-inactive:active::after {
+.header-nav-active::after {
     position: absolute;
     content: '';
     width: 100%;
